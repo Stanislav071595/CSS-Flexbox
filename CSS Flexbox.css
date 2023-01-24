@@ -1,7 +1,11 @@
 /* CSS FlexBox */
 ____________________________________________
 
-
+<style>
+  #box-container {
+    height: 500px;
+    display: flex;
+  }
 
 
   #box-1 {
